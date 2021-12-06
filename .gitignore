@@ -1,6 +1,8 @@
 # custom additions
+.idea/
 .vscode/
 .DS_Store
+tf-data-pipeline/flowers_dataset
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
